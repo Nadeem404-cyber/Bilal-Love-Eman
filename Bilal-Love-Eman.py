@@ -179,9 +179,7 @@ def action():
     xxx = str(len(id))
     jalan ('\033[1;91m Total ids number: '+xxx)
     jalan ('\033[1;92mCode you choose: '+c)
-    jalan ("\033[1;93mWait A While Start [BILAL-HACKED😳]ing...")
-     jalan ("\033[1;93mBILAL LOVE EMAN")
-      jalan ("\033[1;93mIT'S A PRIVATE TOOL")
+    jalan ("\033[1;93mWait A While Start Hacking...")
     jalan ("\033[1;94mTo Stop Process Press Ctrl+z")
     print 50* '\033[1;97m-'
     def main(arg):
